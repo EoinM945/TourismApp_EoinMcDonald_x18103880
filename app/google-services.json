@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "217844851967",
+    "project_id": "cityguide-ee3e5",
+    "storage_bucket": "cityguide-ee3e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217844851967:android:002792c6c8851128ab18ca",
+        "android_client_info": {
+          "package_name": "com.example.tourismapp_eoinmcdonald_x18103880"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217844851967-2bnn7targjjehnlh35mlq94okvhk0ge3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourismapp_eoinmcdonald_x18103880",
+            "certificate_hash": "5e027aabe408a2b4bbffccb033e9a9edb435368c"
+          }
+        },
+        {
+          "client_id": "217844851967-3jhnnju4plqs8bb9fog5jpom2ffug0sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOG1aAHC1ysiP3kxMgXqzF7FI4PATQFII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217844851967-3jhnnju4plqs8bb9fog5jpom2ffug0sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

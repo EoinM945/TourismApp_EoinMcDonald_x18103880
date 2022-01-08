@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_container"
+    tools:context=".OnBoarding"
+    android:background="@color/banner_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Welcome, Please Continue"
+            android:fontFamily="@font/baloo"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            android:layout_marginTop="100dp"
+            android:textColor="@color/black"/>
+
+
+        <Button
+            android:id="@+id/continue_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Continue"
+            app:backgroundTint="@color/Red"
+            android:textColor="@color/white"
+            android:fontFamily="@font/baloo"
+            android:textStyle="bold"
+
+            android:layout_marginTop="400dp"/>
+
+
+
+
+    </LinearLayout>
+</FrameLayout>
